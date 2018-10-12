@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ContentProvider</string>
+    <string name="launch_activity">Launch Activity in new Process</string>
+    <string name="hello_new_process">Hello new process</string>
+</resources>
